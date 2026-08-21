@@ -38,4 +38,4 @@ npm run dev
   ***
 
 
-  # project link [https://preview--code-on-track.lovable.app/]
+  # project link [https://code-on-track.lovable.app/]
