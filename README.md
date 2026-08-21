@@ -4,7 +4,6 @@
 
 
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
@@ -27,3 +26,16 @@ npm run dev
 - TypeScript
 - React
 - Tailwind CSS
+
+## Backend Architecture 
+
+- using WebStock 
+- Simpy for simulation
+- matplotlib and geopandas
+- Using ML for reinforcement learning and different algorithm of machine learning
+  ***
+  we are still working on backend
+  ***
+
+
+  # project link [https://preview--code-on-track.lovable.app/]
